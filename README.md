@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**oyersen/oyersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack developer focusing on **.NET** and **geospatial mapping software**. My expertise is in developing efficient, interactive web applications with a focus on **CesiumJS** and **ReactJS**.
 
-Here are some ideas to get you started:
+I specialize in:
+- 3D mapping with **CesiumJS**
+- Full stack development using **.NET**
+- Building high-performance web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If my work has been helpful to you or you are interested in collaborating, feel free to connect with me or check out my projects. I’m always excited about new opportunities and collaborations!
+
+Thanks for stopping by!
+
+[![GitHub followers](https://img.shields.io/github/followers/oyersen?style=social)](https://github.com/oyersen)
